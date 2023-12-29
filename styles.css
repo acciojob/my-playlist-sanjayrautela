@@ -2,11 +2,17 @@
 body{
 	background-color:rgb(204, 204, 204)
 }
+
 h1{
 	text-align: center
 }
 h2{
 	text-align: center
+}
+#song_list{
+	background-color: rgb(255, 255, 255);
+	padding: 100px;
+	border-radius:10px;
 }
 
 #song_list>ul>li{
